@@ -29,7 +29,7 @@ I analyzed the original website and improved its:
 ![Original Trello Landing Page] (Before redesign.png)
 
 ### 🔹 Redesigned Version
-![Redesigned Trello Landing Page](images/trello-redesign.png)
+![Redesigned Trello Landing Page](https://github.com/bindhu44/trello-landingpage-redesign/blob/803860ad2131dbb21bda14441573c505e64d2ece/After%20redesign.png)
 
 ## 💡 Key Improvements
 - Improved CTA visibility with bolder color contrast  
