@@ -30,7 +30,7 @@ I analyzed the original website and improved its:
 
 ### 🔹 Redesigned Version
 ![Redesigned Trello Landing Page]
-
+<img width="1196" height="773" alt="Image" src="https://github.com/user-attachments/assets/97446eeb-944c-4ce2-bf77-d168b17c505d" />
 
 ## 💡 Key Improvements
 - Improved CTA visibility with bolder color contrast  
