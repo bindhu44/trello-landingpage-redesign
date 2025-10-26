@@ -26,7 +26,7 @@ I analyzed the original website and improved its:
 ## 🎨 Visuals
 
 ### 🔹 Original Page
-![Original Trello Landing Page](images/trello-original.png)
+![Original Trello Landing Page] (Before redesign.png)
 
 ### 🔹 Redesigned Version
 ![Redesigned Trello Landing Page](images/trello-redesign.png)
