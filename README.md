@@ -24,6 +24,13 @@ I analyzed the original website and improved its:
 4. Testing: Compared old and new versions for clarity and readability.
 
 ## 🎨 Visuals
+### 🔹 Original Page
+![Original Trello Landing Page]
+<img width="1412" height="879" alt="Image" src="https://github.com/user-attachments/assets/341f4c24-e596-434e-b521-37633579f0b5" />
+
+### 🔹 Redesigned Version
+![Redesigned Trello Landing Page]
+
 
 ## 💡 Key Improvements
 - Improved CTA visibility with bolder color contrast  
